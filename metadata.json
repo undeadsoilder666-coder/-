@@ -1,0 +1,8 @@
+{
+  "name": "Stooky - AI Iraqi Companion",
+  "description": "A friendly Iraqi AI girl named Stooky that talks fast, speaks the Iraqi dialect, and animates as a robot.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
